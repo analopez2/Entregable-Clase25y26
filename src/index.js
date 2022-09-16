@@ -60,7 +60,7 @@ app.use(
       mongoOptions: { useNewUrlParser: true, useUnifiedTopology: true },
       ttl: 600,
     }),
-    secret: 'PapaConQuesito',
+    secret: 'SecretEntregable2526',
     resave: false,
     saveUninitialized: false,
   }),
